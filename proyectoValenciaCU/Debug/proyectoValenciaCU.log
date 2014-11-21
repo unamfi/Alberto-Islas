@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 18/11/2014 04:21:56 p. m..
+     1>Proyecto "C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\proyectoValenciaCU.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainProy.cpp
+         mainProy.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\Debug\proyectoValenciaCU.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib cmodel/CModel.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\Debug\proyectoValenciaCU.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\Debug\proyectoValenciaCU.lib" /MACHINE:X86 /SAFESEH:NO Debug\Camera.obj
+         Debug\figuras.obj
+         Debug\mainProy.obj
+         Debug\texture.obj
+         proyectoValenciaCU.vcxproj -> C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\Debug\proyectoValenciaCU.exe
+     1>Compilación del proyecto terminada "C:\Users\SAIC_3\Source\Repos\valencia\proyectoValenciaCU\proyectoValenciaCU.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.59
